@@ -5,7 +5,7 @@ import { Menu, X } from "lucide-react";
 const pages = [
   { to: "/",          label: "Home",      end: true },
   { to: "/portfolio", label: "Portfolio" },
-  { to: "/services",  label: "Services"  },
+  // { to: "/services",  label: "Services"  },
   { to: "/about",     label: "About"     },
   { to: "/contact",   label: "Contact"   },
 ];

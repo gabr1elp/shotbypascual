@@ -344,7 +344,7 @@ export default async function handler(req, res) {
                         </p>
 
                         <p style="font-size: 16px; line-height: 1.8; margin: 0; color: #2c2c2c;">
-                          Warm regards,
+                          Kind regards,
                         </p>
                         <p style="
                           font-family: 'Playfair Display', Georgia, serif;
