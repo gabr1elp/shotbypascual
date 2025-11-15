@@ -25,7 +25,7 @@ const packages = [
     id: "premium",
     name: "Premium Session",
     price: 209,
-    tagline: "135-min · 40+ edits",
+    tagline: "135-min · 45+ edits",
     features: [
       "Multiple locations",
       "Online gallery",
